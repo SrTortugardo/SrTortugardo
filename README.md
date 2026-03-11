@@ -1,4 +1,4 @@
-# que so
+# Buenas
 Yo solo hago cualquier tonteria para matar el tiempo
 
 ## Sistema
